@@ -1,4 +1,4 @@
-# Advanced Information Retrieval Assignments
+# Advanced Information Retrieval Course
 
 Welcome to my repository containing assignments for the Advanced Information Retrieval course offered by the Computer Engineering Department at Sharif University of Technology during Fall 2023. All assignments have been implemented in Python.
 
